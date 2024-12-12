@@ -1,0 +1,60 @@
+[27-Nov-2024 06:50:38 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 06:50:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/header.php:64
+Stack trace:
+#0 /home/web2te/public_html/craft-india/header.php(64): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 /home/web2te/public_html/craft-india/products.php(15): include('/home/web2te/pu...')
+#2 {main}
+  thrown in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 06:53:29 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 40
+[27-Nov-2024 06:53:29 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 41
+[27-Nov-2024 06:53:29 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 58
+[27-Nov-2024 06:53:29 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 59
+[27-Nov-2024 06:53:29 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 06:53:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/header.php:64
+Stack trace:
+#0 /home/web2te/public_html/craft-india/header.php(64): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 /home/web2te/public_html/craft-india/about-us.php(15): include('/home/web2te/pu...')
+#2 {main}
+  thrown in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 06:54:54 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 40
+[27-Nov-2024 06:54:54 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 41
+[27-Nov-2024 06:54:54 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 58
+[27-Nov-2024 06:54:54 UTC] PHP Warning:  Undefined variable $site in /home/web2te/public_html/craft-india/header.php on line 59
+[27-Nov-2024 06:54:54 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 06:54:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/header.php:64
+Stack trace:
+#0 /home/web2te/public_html/craft-india/header.php(64): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 /home/web2te/public_html/craft-india/about-us.php(15): include('/home/web2te/pu...')
+#2 {main}
+  thrown in /home/web2te/public_html/craft-india/header.php on line 64
+[27-Nov-2024 07:12:17 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/product-details.php:6
+Stack trace:
+#0 /home/web2te/public_html/craft-india/product-details.php(6): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/product-details.php:6
+Stack trace:
+#0 /home/web2te/public_html/craft-india/product-details.php(6): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/product-details.php:6
+Stack trace:
+#0 /home/web2te/public_html/craft-india/product-details.php(6): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/product-details.php:6
+Stack trace:
+#0 /home/web2te/public_html/craft-india/product-details.php(6): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:53 UTC] PHP Warning:  Undefined variable $conn in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:12:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/web2te/public_html/craft-india/product-details.php:6
+Stack trace:
+#0 /home/web2te/public_html/craft-india/product-details.php(6): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/web2te/public_html/craft-india/product-details.php on line 6
+[27-Nov-2024 07:35:26 UTC] PHP Parse error:  Unclosed '{' on line 7 in /home/web2te/public_html/craft-india/product-details.php on line 132
